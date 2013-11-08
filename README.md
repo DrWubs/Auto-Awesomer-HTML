@@ -1,4 +1,27 @@
 Auto-Awesomer-HTML
 ==================
 
-The code for my HTML tutorial site
+This is a short HTML coding project for a tutorial site on how to get my Auto DJ. Auto Awesomeer also has a tutorial site both being hosted for the public.<br />
+Link - https://googledrive.com/host/0B_-GwA4W8j0UaFVsZXNjQTRBb3M/
+
+11/7/13 = Official Site Launch
+==================
+
+Coded most HTML for interface for the site including:<br/>
+
+* Script description<br/>
+* Disclaimer<br/>
+* Notice<br/>
+* Github linked<br/>
+* Features Listed<br/>
+* How to install scripte<br/>
+* How to use script<br/>
+* Script not working section was codeded but is needed for error message fixes<br/>
+* Images added<br/>
+
+11/8/13 = Site Hosted
+==================
+
+* Site is now hosted and open to public
+
+(Link at the top)
